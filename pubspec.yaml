@@ -1,0 +1,32 @@
+name: hive_sharedpref_gnav_tabbar
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+  shared_preferences: ^2.1.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  google_nav_bar: ^5.0.6
+  numberpicker: ^2.1.2
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.3.3
+  hive_generator: ^2.0.1
+  flutter_lints: ^2.0.0
+flutter:
+
+  uses-material-design: true
+
+
+
+
