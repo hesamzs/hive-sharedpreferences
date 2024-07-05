@@ -4,9 +4,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/sXdGWXF0/image1.png" alt="project-screenshot" style="display:inline-block;" width="300" height="670">
+<img src="https://i.postimg.cc/sXdGWXF0/image1.png" alt="project-screenshot" width="400" height="670">
 
-<img src="https://i.postimg.cc/1trXNrrf/image2.png" alt="project-screenshot" style="display:inline-block;" width="300" height="670">
+<img src="https://i.postimg.cc/1trXNrrf/image2.png" alt="project-screenshot" width="400" height="670">
 
   
   
