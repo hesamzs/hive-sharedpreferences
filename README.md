@@ -9,7 +9,6 @@
 <img src="https://i.postimg.cc/1trXNrrf/image2.png" alt="project-screenshot" width="400" height="400/">
 
   
-
   
 <h2>💻 Built with</h2>
 
